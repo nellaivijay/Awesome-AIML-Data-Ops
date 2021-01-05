@@ -1,7 +1,4 @@
-# Awesome-MLOps
-Awesome MLOps
-
-# Awesome machine learning Ops
+# Awesome AI - Machine learning and Data Ops
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production AI and ML.
 
