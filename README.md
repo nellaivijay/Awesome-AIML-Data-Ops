@@ -1,6 +1,6 @@
 # Awesome AI - Machine learning and Data Ops
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production AI and ML.
+This repository contains a curated list of awesome open-source libraries to help you deploy, monitor, version, scale, and secure your AI and ML production.
 
 # Main Content
 
@@ -297,7 +297,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - Cross-framework solution to convert, visualize and diagnose deep neural network models.
 * [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef) - A standard format to store models across Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet
 * [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - Open Neural Network Exchange Format
-* [PFA](http://dmg.org/pfa/index.html) - Created by the same organisation as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
+* [PFA](http://dmg.org/pfa/index.html) - Created by the same organization as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
 * [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - The Predictive Model Markup Language standard in XML - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
 
 
