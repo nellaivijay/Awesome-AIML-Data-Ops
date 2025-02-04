@@ -5,10 +5,10 @@ This repository contains a curated list of awesome open-source libraries to help
 # Main Content
 
 ## LLM Course
-* [Aequitas]([https://github.com/dair-ai/ML-Papers-Explained](https://github.com/mlabonne/llm-course)) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+* [Aequitas](https://github.com/mlabonne/llm-course) ![](https://img.shields.io/github/stars/mlabonne/llm-course.svg?style=social) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 ## AI & ML Papers Explained. 
-* [Aequitas](https://github.com/dair-ai/ML-Papers-Explained) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) -  Explanation to key concepts in ML
+* [Aequitas](https://github.com/dair-ai/ML-Papers-Explained) ![](https://img.shields.io/github/stars/dair-ai/ML-Papers-Explained.svg?style=social) -  Explanation to key concepts in ML
 
 ## Explaining Black Box Models and Datasets
 
