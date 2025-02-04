@@ -1,8 +1,14 @@
-# Awesome AI - Machine learning and Data Ops
+# Awesome AI,  Machine learning and Data Ops
 
 This repository contains a curated list of awesome open-source libraries to help you deploy, monitor, version, scale, and secure your AI and ML production.
 
 # Main Content
+
+## LLM Course
+* [Aequitas]([https://github.com/dair-ai/ML-Papers-Explained](https://github.com/mlabonne/llm-course)) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+
+## AI & ML Papers Explained. 
+* [Aequitas](https://github.com/dair-ai/ML-Papers-Explained) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) -  Explanation to key concepts in ML
 
 ## Explaining Black Box Models and Datasets
 
