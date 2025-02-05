@@ -4,11 +4,12 @@ This repository contains a curated list of awesome open-source libraries to help
 
 # Main Content
 
-## LLM Course
+## LLM Course and Guid
 * [LLM Course](https://github.com/mlabonne/llm-course) ![](https://img.shields.io/github/stars/mlabonne/llm-course.svg?style=social) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-
+* [Comprehensive guide on RAG!](https://lnkd.in/d_t8yig8) - Most comprehensive guide on RAG!
+* 
 ## AI & ML Papers Explained. 
-* [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) ![](https://img.shields.io/github/stars/dair-ai/ML-Papers-Explained.svg?style=social) -  Explanation to key concepts in ML
+* [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)   -  Explanation to key concepts in ML
 
 ## Explaining Black Box Models and Datasets
 
